@@ -39,7 +39,7 @@
   "dependencies": {
     "Validator": "^1.0.5",
     "axios": "^0.18.0",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "jsonwebtoken": "^7.3.0",
     "prop-types": "^15.5.10",
     "react": "^16.4.1",
