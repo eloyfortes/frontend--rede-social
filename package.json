@@ -37,7 +37,7 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "Validator": "^1.0.5",
+    "Validator": "^1.1.4",
     "axios": "^0.18.0",
     "bcrypt": "^1.0.2",
     "jsonwebtoken": "^7.3.0",
